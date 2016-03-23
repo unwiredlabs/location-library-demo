@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Unwired Demo</string>
+
+    <string name="action_settings"></string>
+    <!--    Permissions    -->
+    <string name="permission_rationale_location"></string>
+    <string name="location_permission_denied"></string>
+    <string name="permission_required_toast"></string>
+
+</resources>
